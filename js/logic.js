@@ -1,5 +1,5 @@
 function markerSize(mag) {
-  return mag * 3000;
+  return mag * 10000;
 }
 
 // Adding tile layer
